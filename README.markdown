@@ -1,10 +1,10 @@
 # CommunityJS.org
------------
+===================
 This is the software behind CommunityJS.org
 
 
 ## Quick start
------------
+--------------------
 
 Clone the repo
 
@@ -40,7 +40,7 @@ http://0.0.0.0:8000/
 ```
 
 ## TODO
------------
+--------------------
 - better error handling if database is gone
 - check sorting
 - manual flush
